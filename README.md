@@ -5,4 +5,6 @@ The notebook used to teach this course is [**this**](https://colab.research.goog
 # **Week # 1**
 
 **Lecture # 1**: [**Recording**](https://drive.google.com/file/d/1skezkp-DmpQoRme9wZt0G89xicrOc4Jh/view?usp=sharing) 
+**Lecture # 2**: [**Recording**](https://fb.watch/vxB39Tq7uL/)
+
 
