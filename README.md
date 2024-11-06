@@ -8,4 +8,7 @@ The notebook used to teach this course is [**this**](https://colab.research.goog
 
 **Lecture # 2**: [**Recording**](https://fb.watch/vxB39Tq7uL/)
 
+**Lecture # 2**: [**Recording**](https://fb.watch/vGW9a-S_BB/)
+
+
 
