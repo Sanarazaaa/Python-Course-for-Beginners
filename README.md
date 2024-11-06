@@ -8,7 +8,7 @@ The notebook used to teach this course is [**this**](https://colab.research.goog
 
 **Lecture # 2**: [**Recording**](https://fb.watch/vxB39Tq7uL/)
 
-**Lecture # 3**: [**Recording**]([https://fb.watch/vGW9a-S_BB/](https://www.canva.com/design/DAGVsVv_JhM/AFkNi7JF4aCgTGrp0_BABw/edit?utm_content=DAGVsVv_JhM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton))
+**Lecture # 3**: [**Recording**](https://www.canva.com/design/DAGVsVv_JhM/AFkNi7JF4aCgTGrp0_BABw/edit?utm_content=DAGVsVv_JhM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 **Lecture # 4**: [**Recording**](https://fb.watch/vGW9a-S_BB/)
 
