@@ -2,6 +2,10 @@
 
 The notebook used to teach this course is [**this**](https://colab.research.google.com/drive/1O7C2qngiVOqIo_7FzIj8boQ0R1xLtxVS?usp=sharing).
 
+Following was also used to solidify the concepts taught in class. 
+1. Quiz 1, quiz 2
+2. [Assignment # 1](https://docs.google.com/document/d/1scCL_Q1r3fSzuonBVj-fOnLy2JK4MHSw5EiY9RlIYfc/edit?usp=sharing)
+
 # **Week # 1**
 
 **Lecture # 1**: [**Recording**](https://drive.google.com/file/d/1skezkp-DmpQoRme9wZt0G89xicrOc4Jh/view?usp=sharing) 
