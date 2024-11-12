@@ -14,5 +14,6 @@ The notebook used to teach this course is [**this**](https://colab.research.goog
 
 **Lecture # 5**: [**Recording**](https://fb.watch/vNpVQ8K91g/)
 
+**Lecture # 6**: [**Recording**](https://fb.watch/vOOJKjOq_K/)
 
 
