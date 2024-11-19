@@ -20,4 +20,6 @@ Following was also used to solidify the concepts taught in class.
 
 **Lecture # 6**: [**Recording**](https://fb.watch/vOOJKjOq_K/)
 
+**Lecture # 7**: [**Recording**](https://fb.watch/vYojVHllxa/)
+
 
