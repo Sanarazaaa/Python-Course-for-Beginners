@@ -28,5 +28,5 @@ Following was also used to solidify the concepts taught in class.
 
 **Lecture # 10**: [**Recording**](https://fb.watch/wd8Yq5E4_Y/)
 
-**Lecture # 10**: [**Recording**](https://fb.watch/wetN-ozVkF/)
+**Lecture # 11**: [**Recording**](https://fb.watch/wetN-ozVkF/)
 
